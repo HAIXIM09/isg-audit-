@@ -1,0 +1,6 @@
+{
+  "name": "ISGWYZE ASO Audit",
+  "description": "App Store Optimization audit and visual asset analysis engine for Google Play Store listings",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
